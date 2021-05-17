@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sanjaykms/ReactRPS/static/css/main.b08a4548.chunk.css",
+    "main.js": "/Sanjaykms/ReactRPS/static/js/main.1f3f0b53.chunk.js",
+    "main.js.map": "/Sanjaykms/ReactRPS/static/js/main.1f3f0b53.chunk.js.map",
+    "runtime-main.js": "/Sanjaykms/ReactRPS/static/js/runtime-main.897db666.js",
+    "runtime-main.js.map": "/Sanjaykms/ReactRPS/static/js/runtime-main.897db666.js.map",
+    "static/js/2.201d897e.chunk.js": "/Sanjaykms/ReactRPS/static/js/2.201d897e.chunk.js",
+    "static/js/2.201d897e.chunk.js.map": "/Sanjaykms/ReactRPS/static/js/2.201d897e.chunk.js.map",
+    "index.html": "/Sanjaykms/ReactRPS/index.html",
+    "precache-manifest.d7061599ecaf4097f8a6a5a46fdffe1b.js": "/Sanjaykms/ReactRPS/precache-manifest.d7061599ecaf4097f8a6a5a46fdffe1b.js",
+    "service-worker.js": "/Sanjaykms/ReactRPS/service-worker.js",
+    "static/css/main.b08a4548.chunk.css.map": "/Sanjaykms/ReactRPS/static/css/main.b08a4548.chunk.css.map",
+    "static/js/2.201d897e.chunk.js.LICENSE.txt": "/Sanjaykms/ReactRPS/static/js/2.201d897e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.897db666.js",
+    "static/js/2.201d897e.chunk.js",
+    "static/css/main.b08a4548.chunk.css",
+    "static/js/main.1f3f0b53.chunk.js"
+  ]
+}
